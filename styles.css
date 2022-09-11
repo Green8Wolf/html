@@ -1,0 +1,17 @@
+.resumes {
+	border: 1px solid black;
+}
+
+body {
+	font-family: "Helvetica", "Arial", sans-serif;
+	margin: 20px;
+}
+
+a {
+	color: #32a8ce;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #1190b0;
+}
